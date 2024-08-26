@@ -260,6 +260,7 @@ button {
     display: inline-block;
 }
 
+
 .footer-section h4 {
     font-size: 16px;
     margin-bottom: 10px;
@@ -331,8 +332,8 @@ button {
 }
 
 .sobre{
-    margin-left: 20vh;
-    margin-right: 20vh;
+    margin-left: 24vh;
+    margin-right: 24vh;
 }
 
 .sobre h1{
@@ -494,6 +495,4 @@ button {
         font-size: 16px;
         padding: 20px;
     }
-    
 }
-
