@@ -88,6 +88,7 @@ nav {
     max-width: 80%;
     height: auto;
     margin-top: 20px;
+    margin-left: 45px;
 }
 
 .product-details {
@@ -189,6 +190,7 @@ nav {
 .footer {
     background-color: #000;
     color: #fff;
+    margin-top: 130px;
     padding: 20px 0;
     font-size: 12px;
     font-family: Arial, Helvetica, sans-serif;
@@ -223,7 +225,7 @@ nav {
     font-size: 16px;
     margin-bottom: 10px;
     text-transform: uppercase;
-    color: #A3A3A3;
+    color: #8C52FF;
 }
 
 .footer-section ul {
@@ -293,12 +295,12 @@ nav {
     margin-right: 50px;
 }
 .direitos p {
-    font-size: 10px; /* Diminui o tamanho do texto dos direitos autorais */
+    font-size: 12px; /* Diminui o tamanho do texto dos direitos autorais */
     margin: 0; /* Remove as margens para evitar espaços extras */
 }
 
 .direitos img {
-    width: 100px; /* Diminui o tamanho do logo */
+    width: 140px; /* Diminui o tamanho do logo */
 }
 
 
@@ -376,7 +378,7 @@ nav {
     }
 
     .container {
-        flex-direction: column;
+        
         align-items: center;
     }
 
@@ -428,10 +430,12 @@ nav {
     }
 
     .direitos {
+        margin: 0;
         align-items: center;
         justify-content: center;
         text-align: center;
         width: 100%;
+        
     }
 
     #prgf1 {
