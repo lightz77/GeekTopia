@@ -303,7 +303,10 @@ nav {
     width: 140px; /* Diminui o tamanho do logo */
 }
 
+.footer-section a:hover{
+    color: #a3a3a3;
 
+}
 
 
 @media (max-width: 768px) {
@@ -436,6 +439,10 @@ nav {
         text-align: center;
         width: 100%;
         
+    }
+    .direitos p{
+        font-size: 12px;
+        color: #A3A3A3;
     }
 
     #prgf1 {
